@@ -10,4 +10,4 @@ I'm **Daniil**, a passionate **Java Developer** and a 4th-year college student m
 - **Telegram**: [@krytoydaniil](https://t.me/krytoydaniil)  
 - **Email**: [daniil@grishenok.ru](mailto:daniil@grishenok.ru)
 
-Let’s build something amazing together!
+
