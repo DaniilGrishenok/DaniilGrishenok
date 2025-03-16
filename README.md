@@ -7,7 +7,6 @@ I'm **Daniil**, a passionate **Java Developer** and a 4th-year college student m
 - 📚 **Learning**: Always eager to learn new technologies and approaches in software development.
 
 ### 📬 Contact me:
-- **Telegram**: [@krytoydaniil](https://t.me/krytoydaniil)  
 - **Email**: [daniil@grishenok.ru](mailto:daniil@grishenok.ru)
 
 
